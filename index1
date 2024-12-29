@@ -1,0 +1,28 @@
+<html>
+    <body>
+        <header>
+         <h1> <img class="logo" src="https://learn.logikaschool.com/uploads/student/4822648/6767f263bc156.jpg"> <br/>
+волейбольна каманда "Хімік"</h1>
+         <nav>
+         <a href="index.html">головна</a>   
+     
+          <a href="index1.html">Тренери</a> 
+          <a href="">майданчики</a>
+          <a href="">Контакти</a>
+       </nav>
+        </header>
+        <main>
+            <img class="main_img" src="https://learn.logikaschool.com/uploads/student/4822648/677129aaa556b.jpg">
+            <p>№1 головний тренер </p>
+             <img class="main_img" src="https://learn.logikaschool.com/uploads/student/4822648/67712af9b8ee0.jpg">
+              <p>№2 другий тренер (нападаючий 3 зона) </p>
+        </main>
+        <footer>
+             <p><b><i>Контакти</i></b></p>
+            <p>Адреса:м.Южне вул.проспект "Перемоги"</p>
+            <p>Тел.: +38063-1277</p>
+<br/>
+            <a href="">Зв`язатися</a>
+        </footer>
+    </body>
+</html>
