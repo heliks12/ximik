@@ -62,3 +62,7 @@ footer a {
 main{
     text-align: center;
 }
+main img{
+      width: 250px;
+    height: 250px; 
+}
